@@ -5,7 +5,8 @@
 • Eat More Foods</br>
 • Show Fps</br>
 • Auto Respawn</br>
-</br>
+</br>Feel Free to DM to me https://instagram.com/aecicekdagi about issues.</br>
+You can also follow me.</br></br>
 <b>Requirements:</b> • Tampermonkey
 <h2>Userscript: <a href="https://github.com/MrCoderN/mope.io-2019-hacks-cheats-mod/raw/master/mopeiohack.user.js" target="_blank">CLICK HERE</a></h2>
 <b>* Other Websites & Mods *</b></br>

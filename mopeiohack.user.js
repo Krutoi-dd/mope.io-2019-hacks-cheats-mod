@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Mope.io Hacks Cheats Mods 2019 - Working - (sandbox-unblocked) by ioMods.org
-// @description  Mopeio Mods Features: Zoom Hack, Speed Hack, Auto Aim, Auto Heal, FPS, Adblock Created by ioMods.org
+// @name         Mope.io ZOOM HACK - Mopeio Hacks - Best Mope Cheat 2019
+// @description  Mopeio Mods Features: Zoom Hack, Speed Hack, Auto Aim, Auto Heal, FPS, Adblock
 // @namespace    iomods.org
 // @author       iomods.org
-// @version      1.1
+// @version      1.2
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @updateURL    https://iomods.org/mods/mopeio.user.js
 // @downloadURL  https://iomods.org/mods/mopeio.user.js

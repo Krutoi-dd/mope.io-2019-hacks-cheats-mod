@@ -9,7 +9,6 @@
 // @downloadURL  https://iomods.org/mods/mopeio.user.js
 // @match        *://mope.io/*
 // @match        *://beta.mope.io/*
-// @match        *iogames.space/*
 // @match        *titotu.io/*
 // @match        *io-games.io/*
 // ==/UserScript==

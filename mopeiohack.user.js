@@ -5,13 +5,8 @@
 // @author       iomods.org
 // @version      1.2
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
-// @updateURL    https://iomods.org/mods/mopeio.user.js
-// @downloadURL  https://iomods.org/mods/mopeio.user.js
 // @match        *://mope.io/*
 // @match        *://beta.mope.io/*
-// @match        *iogames.space/*
-// @match        *titotu.io/*
-// @match        *io-games.io/*
 // ==/UserScript==
 
 setTimeout(function() {
